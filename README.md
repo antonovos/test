@@ -1,1 +1,1 @@
-https://antonovos.github.io/gh-pages/cv
+https://antonovos.github.io/rsschool-cv/cv
